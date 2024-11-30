@@ -1,0 +1,12 @@
+Chicago Crimes Dashboard (2010 - 2011)
+
+Click below 
+
+Dashboard :
+https://app.powerbi.com/view?r=eyJrIjoiYTZhNmZmMDAtMTBjOC00ZDhjLTg1NTktY2ZjMGU3ODEwY2ZlIiwidCI6IjM3YWVhMmRjLWMxN2ItNGVjZi1hNzQyLWJkZWY3Yjc3NjExZiIsImMiOjEwfQ%3D%3D
+
+Deck :
+https://drive.google.com/file/d/1Hku_5ZdXp3Z7ey5r9kjpIH6WzpVBDoLT/view?usp=drive_link
+
+Dataset :
+https://drive.google.com/drive/folders/1QY2VKgAHCwfKB9ks_MryqNBjDRNQkeW2?usp=sharing
